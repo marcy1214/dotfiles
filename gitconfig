@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marcy.delacruz@gmail.com
+	name = Marcy Hundschell Dela Cruz
